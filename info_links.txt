@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Vector_generalized_linear_model
+https://en.wikipedia.org/wiki/General_linear_model
+
+https://en.wikipedia.org/wiki/Analysis_of_variance
+https://en.wikipedia.org/wiki/Multivariate_analysis_of_covariance
+https://en.wikipedia.org/wiki/Linear_regression#Simple_and_multiple_linear_regression
